@@ -1,0 +1,19 @@
+{
+  "name": "primer-playground",
+  "version": "1.0.0",
+  "description": "For playing around with Github's Primer Design library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-cooper/primer-playground.git"
+  },
+  "author": "Lee Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lee-cooper/primer-playground/issues"
+  },
+  "homepage": "https://github.com/lee-cooper/primer-playground#readme"
+}
